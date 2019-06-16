@@ -3,3 +3,4 @@
 
 greeting = "Hello World"
 
+array = [1,2,3]
